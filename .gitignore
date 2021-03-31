@@ -1,5 +1,5 @@
 # npm debugging logs
-npm-debug.log*
+*.log
 
 # project dependencies
 node_modules
@@ -13,5 +13,3 @@ node_modules
 
 # editor files
 *.bak
-
-
