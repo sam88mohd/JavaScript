@@ -13,3 +13,9 @@ node_modules
 
 # editor files
 *.bak
+
+dist/
+
+public/dist/
+
+
